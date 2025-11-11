@@ -1,0 +1,31 @@
+[tool.black]
+line-length = 89
+target-version = ['py310']
+include = '\.py$'
+exclude = '''
+/(
+    \.eggs
+  | \.git
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | buck-out
+  | build
+  | dist
+  | notebooks
+  | data
+)/
+'''
+
+[tool.isort]
+multi_line_output = 3
+include_trailing_comma = true
+force_grid_wrap = 0
+use_parentheses = true
+line_length = 89
+
+[tool.pytest.ini_options]
+markers = [
+    "local: marks tests that don't work remotely, e.g. those that require data",
+]
