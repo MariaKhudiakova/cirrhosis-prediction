@@ -82,5 +82,5 @@ cirrhosis-prediction/
 5. Артур Рыжов
 6. Дмитрий Кадакин
 
-### Ссылка на презентацию: https://1drv.ms/p/c/2ac6e1064903d095/IQC0R7eYw4-CQaZfEquIpS-rAQy_abDC85fttVxXO9rSLeY?e=pkNDao
+### Ссылка на презентацию: https://docs.google.com/presentation/d/1eTy_YGEZF8h9eXaT-vIBn5O7nNQDfU01/edit?usp=sharing&ouid=108351532682337595074&rtpof=true&sd=true
 
