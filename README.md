@@ -84,3 +84,5 @@ cirrhosis-prediction/
 
 ### Ссылка на презентацию: https://docs.google.com/presentation/d/1eTy_YGEZF8h9eXaT-vIBn5O7nNQDfU01/edit?usp=sharing&ouid=108351532682337595074&rtpof=true&sd=true
 
+### Ссылка на Google.Collab: https://docs.google.com/presentation/d/1eTy_YGEZF8h9eXaT-vIBn5O7nNQDfU01/edit?usp=sharing&ouid=108351532682337595074&rtpof=true&sd=true](https://colab.research.google.com/drive/19iShuFFPXr3Ay6eSlkDSGbVT5-sNh6fr?usp=sharing)
+
